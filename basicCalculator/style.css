@@ -1,0 +1,20 @@
+body{
+     display: inline-block;
+     margin-left: 500px;   
+     margin-top: 205px;
+}
+#num1-el{
+    margin-left: 100px;
+}
+button{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 5px 10px 5px 10px;
+}
+#sum-el{
+    display: inline-block;
+    margin-left: 80px;
+}
+.res{
+    display: inline-block;
+}
