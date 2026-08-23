@@ -20,4 +20,13 @@ let result = propertyForSaleArr.map(({propertyLocation,priceGBP,comment,roomsM2}
 
 propertyHTML(propertyForSaleArr);
 
+let arr = [1,2,3,4,5]
+let sum  = 0
+const sum = arr.reduce((total,sum)=> {
+        total+sum
+},0)
+console.log(sum)
+
+
+
 
