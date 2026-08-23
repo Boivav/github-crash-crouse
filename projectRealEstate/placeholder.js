@@ -5,4 +5,3 @@ export const placeholderProperty = {
       comment: 'This is the description.',
       image : 'Placeholder,jpg'
 }
-
