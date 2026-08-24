@@ -7,3 +7,4 @@ console.log('The reason to love coding is that it makes you a problem solver and
 console.log(`I love playing tennis.`)
 
 console.log(`I love playing piano`)
+console.log(`I love Math`)
