@@ -1,0 +1,11 @@
+{
+    "name":"Boivav Hazarika",
+    "age": 29,
+    "Gender": "Male",
+    "Hobbies": [
+        "Tennis",
+        "Piano",
+        "Coding",
+        "Running"
+    ]
+}
