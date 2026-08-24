@@ -26,7 +26,8 @@ const sum = arr.reduce((total,sum)=> {
         total+sum
 },0)
 console.log(sum)
-
-
-
+const product = arr.reduce((total,start) => {
+       total*start
+},1)
+console.log(product)
 
