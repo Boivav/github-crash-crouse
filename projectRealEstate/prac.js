@@ -25,3 +25,19 @@ function notifyUser(){
     })
 }
 
+async function main(){
+    try{
+       const result1 = await uploadFile()
+       const result2 = await processFile()
+       const result3 = await notifyUser()
+       console.log(result1)
+       console.log(result2)
+       console.log(result3)
+    }catch(error){
+        console.log(error)
+    }finally{
+        console.log(`All steps completed.`)
+    }
+}
+
+main()
